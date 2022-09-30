@@ -1,1 +1,2 @@
-# first-repo
+MY first repo
+This is some text
